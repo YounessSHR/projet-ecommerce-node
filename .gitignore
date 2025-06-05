@@ -1,0 +1,41 @@
+# Ignorer les dépendances Node.js
+node_modules/
+
+# Ignorer les fichiers d’environnement (variables sensibles)
+.env
+.env.local
+.env.*.local
+
+# Ignorer les fichiers logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# Ignorer les systèmes d’exploitation
+.DS_Store         # macOS
+Thumbs.db         # Windows
+
+# Ignorer les fichiers de l’éditeur
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Ignorer les fichiers de build éventuels
+dist/
+build/
+
+# Ignorer les dumps ou scripts SQL non essentiels
+*.sql
+!database.sql
+
+# Ignorer les fichiers temporaires
+*.tmp
+*.swp
+*.bak
+
+# Ignorer coverage si tests
+coverage/
