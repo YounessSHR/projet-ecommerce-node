@@ -18,15 +18,15 @@ Ce projet vise à concevoir et développer une plateforme e-commerce moderne et 
 
 ## 📑 Table of Contents
 
-- [À propos du projet](#à-propos-du-projet)
-- [Fonctionnalités](#fonctionnalités)
-- [Technologies utilisées](#technologies-utilisées)
-- [Mise en route](#mise-en-route)
-- [Structure et conception du projet](#structure-et-conception-du-projet)
-- [Interfaces graphiques principales](#interfaces-graphiques-principales)
-- [Contribuer](#contribuer)
-- [Contact](#contact)
-- [Remerciements](#remerciements)
+- À propos du projet
+- Fonctionnalités
+- Technologies utilisées
+- Mise en route
+- Structure et conception du projet
+- Interfaces graphiques principales
+- Contribuer
+- Contact
+- Remerciements
 
 ---
 
