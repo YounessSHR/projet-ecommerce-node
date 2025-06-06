@@ -135,15 +135,15 @@ yarn start
 - L’architecture repose sur une séparation Frontend / Backend / Assets / Base de données.
 - Les diagrammes UML suivants ont été utilisés :
 
-- **Diagrammes de Séquence**
+    **Diagrammes de Séquence**
 
-- **Diagramme de Classes**
+    **Diagramme de Classes**
 
-- **Dictionnaire de Données**
+    **Dictionnaire de Données**
 
-- **Diagramme de Composants**
+    **Diagramme de Composants**
 
-- **Diagramme de Déploiement**
+    **Diagramme de Déploiement**
 
 ## 💻 Interfaces graphiques principales
 - Accueil : barre de recherche, catégories, produits en vedette.
@@ -177,12 +177,10 @@ git push origin feature/AmazingFeature
 ```
 
 ## 👨‍💻 Contact
-*   **Achraf Abdelfadel** – [@abdelfadelAchraf](https://github.com/abdelfadelAchraf)
 *   **Sahraoui Youness** – [@YounessSHR](https://github.com/YounessSHR)
 *   **Mohammed Maataoui Belabbes** – [@momaataoui](https://github.com/momaataoui)
 *   **Ittas Abdelali** – [@0xAl3arab](https://github.com/0xAl3arab)
-*   **Mjahdi Abdelouahab** – ([@AbdelouahabMjahdi](https://github.com/AbdelouahabMjahdi)
-*   **Zakaria Ennaqui** – [@zakariaennaqui](https://github.com/zakariaennaqui)
+*   **Mjahdi Abdelouahab** – [@AbdelouahabMjahdi](https://github.com/AbdelouahabMjahdi)
 *   **SifEddine Toumi** - [@sifeddineftoumi](https://github.com/sifeddineftoumi)
 
 ## 🙏 Remerciements
